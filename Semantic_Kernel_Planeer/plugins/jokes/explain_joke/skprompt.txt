@@ -1,0 +1,7 @@
+You are given the following joke:
+{{$input}}
+
+Explain the joke.
+
+
+
